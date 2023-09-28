@@ -1,5 +1,66 @@
 # Mod-21-Book-Search-Engine
 
+## Table of Contents
+
+[Description](#Description)<br>
+[Installation](#Installation-Instructions)<br>
+[License](#License)<br>
+[Questions](#Questions)<br>
+[Acceptance Criteria](#Acceptance-Criteria)<br>
+[User Story](#User-Story)<br>
+
+## Description
+
+<p>CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well!</p> 
+
+## Installation
+
+<p>npm i express</p> 
+<p>npm i nodemon</p> 
+<p>npm i dotenv</p> 
+<p>npm i path</p> 
+<p>npm i mysql2</p> 
+<p>npm i express-handlebars</p> 
+<p>npm i seeds</p> 
+<p>node server.js</p> 
+<p>npm run test</p> 
+<p>npm i</p> 
+
+## License
+
+<p>MIT</p>
+
+```md
+MIT License
+
+Copyright (c) 2023 Zombear323
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+```
+
+## Questions
+
+[<p>Github Account</p>](https://github.com/Zombear323)
+<p>peter.bhagoutie@gmail.com</p>
+
+
 ```
 User Story
 AS AN avid reader
